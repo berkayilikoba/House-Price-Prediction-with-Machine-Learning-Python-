@@ -1,0 +1,78 @@
+SalePrice: Mülkün satış fiyatı (hedef değişken) 
+MSSubClass: Bina sınıfı 
+MSZoning: Genel imar sınıflandırması 
+LotFrontage: Mülkle bağlantılı caddeye olan doğrusal mesafe (feet cinsinden) 
+LotArea: Arsa büyüklüğü (fit kare cinsinden) 
+Street: Yol erişimi türü 
+Alley: Sokak arası erişim türü 
+LotShape: Mülkün genel şekli 
+LandContour: Arazinin düzlüğü 
+Utilities: Kullanılabilir altyapı hizmetleri türü 
+LotConfig: Arsa konfigürasyonu 
+LandSlope: Arazinin eğimi 
+Neighborhood: Ames şehir sınırları içindeki fiziksel konumlar 
+Condition1: Ana yola veya demiryoluna yakınlık 
+Condition2: Ana yola veya demiryoluna yakınlık (eğer ikinci bir tane varsa) 
+BldgType: Konut tipi 
+HouseStyle: Konut tarzı 
+OverallQual: Genel malzeme ve bitiş kalitesi 
+OverallCond: Genel durum değerlendirmesi 
+YearBuilt: Orijinal inşaat tarihi 
+YearRemodAdd: Yenileme tarihi 
+RoofStyle: Çatı türü 
+RoofMatl: Çatı malzemesi 
+Exterior1st: Evin dış kaplaması 
+Exterior2nd: Evin dış kaplaması (eğer birden fazla malzeme varsa) 
+MasVnrType: Duvar kaplama türü MasVnrArea: Duvar kaplama alanı (fit kare cinsinden) 
+ExterQual: Dış malzeme kalitesi 
+ExterCond: Dış malzemenin mevcut durumu 
+Foundation: Temel türü 
+BsmtQual: Bodrumun yüksekliği 
+BsmtCond: Bodrumun genel durumu 
+BsmtExposure: Bahçe seviyesinde veya yürüyüş bodrum duvarları 
+BsmtFinType1: Bodrum bitirme kalitesi (Tip 1) 
+BsmtFinSF1: Bodrum bitirilmiş alan (Tip 1) 
+BsmtFinType2: İkinci bitirilmiş alan kalitesi (eğer varsa) 
+BsmtFinSF2: Bodrum bitirilmiş alan (Tip 2) 
+BsmtUnfSF: Bitirilmemiş bodrum alanı 
+TotalBsmtSF: Toplam bodrum alanı (fit kare cinsinden) 
+Heating: Isıtma türü HeatingQC: Isıtma kalitesi ve durumu 
+CentralAir: Merkezî klima 
+Electrical: Elektrik sistemi 
+1stFlrSF: Birinci kat alanı (fit kare cinsinden) 
+2ndFlrSF: İkinci kat alanı (fit kare cinsinden) 
+LowQualFinSF: Düşük kaliteli bitirilmiş alan (tüm katlar için) 
+GrLivArea: Zemin üstü (zemin seviyesi üzeri) yaşam alanı (fit kare cinsinden) 
+BsmtFullBath: Bodrum katında tam banyo 
+BsmtHalfBath: Bodrum katında yarım banyo 
+FullBath: Zemin üstü tam banyolar 
+HalfBath: Zemin üstü yarım banyolar 
+Bedroom: Bodrum seviyesinin üstündeki yatak odası sayısı 
+Kitchen: Mutfak sayısı 
+KitchenQual: Mutfak kalitesi 
+TotRmsAbvGrd: Zemin üstü toplam oda sayısı (banyolar dahil değil) 
+Functional: Evin işlevsellik değerlendirmesi 
+Fireplaces: Şömine sayısı 
+FireplaceQu: Şömine kalitesi 
+GarageType: Garaj konumu 
+GarageYrBlt: Garajın inşa yılı 
+GarageFinish: Garajın iç bitirme durumu 
+GarageCars: Garajın araba kapasitesi 
+GarageArea: Garaj alanı (fit kare cinsinden) 
+GarageQual: Garaj kalitesi 
+GarageCond: Garaj durumu 
+PavedDrive: Asfalt kaplı yol 
+WoodDeckSF: Ahşap teras alanı (fit kare cinsinden) 
+OpenPorchSF: Açık veranda alanı (fit kare cinsinden) 
+EnclosedPorch: Kapalı veranda alanı (fit kare cinsinden) 
+3SsnPorch: Üç mevsim veranda alanı (fit kare cinsinden) 
+ScreenPorch: Ekranlı veranda alanı (fit kare cinsinden) 
+PoolArea: Havuz alanı (fit kare cinsinden) 
+PoolQC: Havuz kalitesi 
+Fence: Çit kalitesi 
+MiscFeature: Diğer kategorilerde belirtilmeyen çeşitli özellikler 
+MiscVal: Çeşitli özelliklerin değeri ($ cinsinden) 
+MoSold: Satışın gerçekleştiği ay 
+YrSold: Satışın gerçekleştiği yıl 
+SaleType: Satış türü
+SaleCondition: Satışın durumu
